@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"BOX",
+				"box-sizing\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"col",
+				"col-1"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"In",
+				"INTEGER"
+			],
+			[
+				"au",
+				"author_id"
+			],
+			[
+				"seri",
+				"series_id"
+			],
+			[
+				"T",
+				"TEXT"
+			],
+			[
+				"i",
+				"INTEGER"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"eric",
+				"ericchrobak"
+			],
+			[
+				"rece",
+				"receiver-column"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"my",
+				"myModal3"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"navbar",
+				"navbar-default"
+			],
+			[
+				"navbar-",
+				"navbar-collapse"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"page",
+				"page-scroll"
+			],
+			[
+				"gun",
+				"gun-work"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"coi",
+				"container"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"up",
+				"updateMessage"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"ge",
+				"greeting"
+			],
+			[
+				"t",
+				"thead\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font-f",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bott",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"",
+				"Preferences: Settings"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"cd",
+			"sqlite3",
+			"sqlite3 pets_database.db",
+			"pwd",
+			"glue exit",
+			"exit",
+			"cd ..",
+			"glue pwd",
+			"{{pwd}}",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Eric/Dropbox/Employee/Hacker/School/Flatiron/exceptional-realty-bootstrapped"
+	],
+	"file_history":
+	[
+		"/Users/Eric/Dropbox/Employee/Hacker/School/Flatiron/exceptional-realty/css/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/Eric Chrobak/Portfolio/css/style.css",
+		"/Users/Eric/Dropbox/Employee/GG/Code/Property.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/Flatiron/SQL/01_create_cats_table.sql",
+		"/Users/Eric/Desktop/MoviesCreateTable.rb",
+		"/Users/Eric/Downloads/BBGM_League_1_2017_preseason.json",
+		"/Users/Eric/Downloads/2017-18.NBA.Roster.json",
+		"/Users/Eric/repos/Ruby/Track and Field.rb",
+		"/Users/Eric/repos/Ruby/Track and Field",
+		"/Users/Eric/Dropbox/Employee/GG/Code/Update Description in Account Function.js",
+		"/Users/Eric/Downloads/variable-readme-1.0.0/variables.rb",
+		"/Users/Eric/Dropbox/Employee/Hacker/Eric Chrobak/Portfolio/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/Javascript/Lite Brite/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Eric Chrobak/Self projects/number.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Eric Chrobak/Self projects/app.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/JavaScript/First Steps/Sect 2 - First Splash/number.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/JavaScript/What is Javascript/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Eric Chrobak/Anthony Peter/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Marking up a Letter/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Marking up a Letter/quotations.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Marking up a Letter/Letter.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Creating Hyperlinks/Nav Menu/social.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Creating Hyperlinks/Nav Menu/pictures.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Creating Hyperlinks/Nav Menu/projects.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Creating Hyperlinks/Nav Menu/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/Creating Hyperlinks/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/HTML text Fundamentals/text-start.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/HTML text Fundamentals/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/What's in the head/script.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/What's in the head/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/What's in the head/meta-example.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Intro to HTML/What's in the head/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/MDN/HTML/Letter.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/javascript/script.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/css/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/threadly/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/javascript/scrolling-nav.js",
+		"/Users/Eric/Downloads/startbootstrap-scrolling-nav-gh-pages/js/bootstrap.min.js",
+		"/Users/Eric/Downloads/startbootstrap-scrolling-nav-gh-pages/js/bootstrap.js",
+		"/Users/Eric/Downloads/startbootstrap-scrolling-nav-gh-pages/js/jquery.easing.min.js",
+		"/Users/Eric/Downloads/startbootstrap-scrolling-nav-gh-pages/js/scrolling-nav.js",
+		"/Users/Eric/Downloads/startbootstrap-scrolling-nav-gh-pages/css/scrolling-nav.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Projects/Armando Perez/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/css/black.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/javascript/bundle.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/css/bundle.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/javascript/jquery.easing.min.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/css/scrolling-nav.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Projects/Armando Perez/app.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/css/responsiveslides.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/javascript/responsiveslides.min.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Projects/Armando Perez/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/HTML & CSS/Armando Perez/Armando Perez.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/HTML & CSS/Armando Perez/finishedproduct.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/JQuery/Final Project/script.jss",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/Rob P/HTML/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c03/js/basic-function.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c03/basic-function.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c03/js/basic-functions.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c02/string-variable.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c02/js/string-variable.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/HTML & CSS/Armando Perez/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/HTML & CSS/Final Project/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c02/numeric-variable.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c02/js/numeric-variable.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c01/add-content.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/HTML, CSS, Javascript book projects/Javascript/c01/js/add-content.js",
+		"/Users/Eric/Desktop/Complete Developer Course/1-html/links.html",
+		"/Users/Eric/Desktop/Complete Developer Course/1-html/day4.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/School Projects/codecademy projects/HTML & CSS/Final Project/index.html",
+		"/Users/Eric/Desktop/Complete Developer Course/1-html/paragraphs.html",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Newsroom/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Newsroom/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Final Project/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Final Project/About.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Final Project/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Armando Perez/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Armando Perez/Armando Perez.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Bolt/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Bolt/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Headlines/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Headlines/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Adoptly/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Adoptly/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/BestBite/code.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/BestBite/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/BestBite/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Final Project/work.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Final Project/contact.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Junction/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Bass/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Bass/style.css",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Excursion/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Bolt/Codecademyhtml.sublime-project",
+		"/Users/Eric/Dropbox/Employee/Hacker/Guaranteed Gutters/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Pocketbook/style.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/codecademy projects/HTML & CSS/Pocketbook/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Website Version 1.0/First page.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Website Version 1.0/stylesheets.css",
+		"/Users/Eric/Dropbox/Employee/Hacker/Website Version 1.0/index.html",
+		"/Users/Eric/Dropbox/Employee/Hacker/Website Version 1.0/script.js",
+		"/Users/Eric/Dropbox/Employee/Hacker/Dash web projects/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 202.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "exceptional-realty-bootstrapped.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
